@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Los Malditos</title>
+  <desc id="desc">Dos motocicletas tipo calle, una blanca y una azul, junto al nombre Los Malditos</desc>
+  <rect width="900" height="360" rx="44" fill="#211815"/>
+  <circle cx="178" cy="178" r="132" fill="#6f3518"/>
+
+  <!-- Moto blanca: tanque, asiento, motor, escape, farola y manubrio -->
+  <g fill="none" stroke="#fff7ef" stroke-linecap="round" stroke-linejoin="round" stroke-width="9">
+    <circle cx="88" cy="218" r="32"/>
+    <circle cx="218" cy="218" r="32"/>
+    <path d="M88 218h42l27-68h42l19 68M130 218l-22-66 29-29h42l20 27-40 13-29-11M157 150l-22-28M173 128h32l17 18M218 218l-25-68M174 218h37M205 218h36"/>
+    <path d="M122 123h47q12 0 19 10l8 12H151q-19 0-29-10z" fill="#fff7ef" stroke="none"/>
+    <path d="M128 218h45v-35h-38zM173 183h20M132 204h43M196 218h45"/>
+    <circle cx="218" cy="147" r="10" fill="#fff7ef"/>
+  </g>
+
+  <!-- Moto azul -->
+  <g fill="none" stroke="#42a5f5" stroke-linecap="round" stroke-linejoin="round" stroke-width="9">
+    <circle cx="108" cy="218" r="32"/>
+    <circle cx="238" cy="218" r="32"/>
+    <path d="M108 218h42l27-68h42l19 68M150 218l-22-66 29-29h42l20 27-40 13-29-11M177 150l-22-28M193 128h32l17 18M238 218l-25-68M194 218h37M225 218h45"/>
+    <path d="M142 123h47q12 0 19 10l8 12h-45q-19 0-29-10z" fill="#42a5f5" stroke="none"/>
+    <path d="M148 218h45v-35h-38zM193 183h20M152 204h43M216 218h45"/>
+    <circle cx="238" cy="147" r="10" fill="#42a5f5"/>
+  </g>
+
+  <text x="360" y="158" fill="#fff7ef" font-family="Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="4">LOS</text>
+  <text x="360" y="228" fill="#ffb08e" font-family="Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="2">MALDITOS</text>
+  <text x="364" y="274" fill="#d9c9c0" font-family="Arial, sans-serif" font-size="22" letter-spacing="5">LAVADERO DE MOTOS</text>
+</svg>
